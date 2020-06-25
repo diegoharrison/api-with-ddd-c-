@@ -1,0 +1,13 @@
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\XGame.Domain.pdb
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb

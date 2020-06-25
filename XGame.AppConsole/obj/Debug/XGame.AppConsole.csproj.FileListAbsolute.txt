@@ -1,0 +1,14 @@
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe.config
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.pdb
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.pdb
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csprojAssemblyReference.cache
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CoreCompileInputs.cache
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CopyComplete
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.exe
+C:\Projetos\estudo\udemy\apis_robustas_c#\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.pdb
